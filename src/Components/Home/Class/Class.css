@@ -1,0 +1,14 @@
+.allClass{
+  margin-top: 20px;
+  margin-bottom: 10px;
+  
+}
+
+ .perClass{
+   width: 22rem;
+  box-shadow: 0px 3px 3px 3px  lightgrey;
+}
+
+.perClass:hover{
+  box-shadow: none;
+}
